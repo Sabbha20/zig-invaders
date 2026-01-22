@@ -1,0 +1,26 @@
+# Zig build artifacts
+zig-cache/
+zig-out/
+.zig-cache/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# OS temp files
+Thumbs.db
+
+# Editor backups
+*.bak
+*.tmp
